@@ -1,6 +1,6 @@
 {
-    "name": "calendar_app1",
-    "short_name": "calendar_app1",
+    "name": "base_app",
+    "short_name": "base_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

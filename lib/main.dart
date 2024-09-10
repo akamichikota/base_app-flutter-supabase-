@@ -1,4 +1,4 @@
-import 'package:calendar_app1/pages/splash_page.dart';
+import 'package:base_app/pages/splash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:calendar_app1/models/profile.dart';
-import 'package:calendar_app1/utils/constants.dart';
-import 'package:calendar_app1/pages/login_page.dart';
+import 'package:base_app/models/profile.dart';
+import 'package:base_app/utils/constants.dart';
+import 'package:base_app/pages/login_page.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class UserListPage extends StatefulWidget {

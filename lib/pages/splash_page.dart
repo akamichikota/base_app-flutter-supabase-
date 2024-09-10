@@ -1,9 +1,9 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:calendar_app1/pages/user_list_page.dart';
+import 'package:base_app/pages/user_list_page.dart';
 import 'package:flutter/material.dart';
-import 'package:calendar_app1/pages/register_page.dart';
-import 'package:calendar_app1/utils/constants.dart';
+import 'package:base_app/pages/register_page.dart';
+import 'package:base_app/utils/constants.dart';
 
 /// ログイン状態に応じてユーザーをリダイレクトするページ
 class SplashPage extends StatefulWidget {

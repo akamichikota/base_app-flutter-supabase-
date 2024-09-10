@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:calendar_app1/pages/user_list_page.dart';
-import 'package:calendar_app1/pages/login_page.dart'; // 追加
-import 'package:calendar_app1/utils/constants.dart';
+import 'package:base_app/pages/user_list_page.dart';
+import 'package:base_app/pages/login_page.dart'; // 追加
+import 'package:base_app/utils/constants.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class RegisterPage extends StatefulWidget {
